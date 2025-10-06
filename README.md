@@ -65,12 +65,14 @@ python mri_image_converter.py --resolution <desired-resolution>
 If you find this dataset useful in your research, please consider citing our work:
 
 ```bibtex
-@misc{li2024dataset,
-      title={A dataset of primary nasopharyngeal carcinoma MRI with multi-modalities segmentation},
-      author={Yin Li and Qi Chen and Kai Wang and Meige Li and Liping Si and Yingwei Guo and Yu Xiong and Qixing Wang and Yang Qin and Ling Xu and Patrick van der Smagt and Jun Tang and Nutan Chen},
-      year={2024},
-      eprint={2404.03253},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@article{li2025dataset,
+  title={A dataset of primary nasopharyngeal carcinoma MRI with multi-modalities segmentation},
+  author={Li, Yin and Chen, Qi and Li, Meige and Si, Liping and Guo, Yingwei and Xiong, Yu and Wang, Qixing and Qin, Yang and Xu, Ling and Smagt, Patrick van der and others},
+  journal={Scientific Data},
+  volume={12},
+  number={1},
+  pages={1450},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
 ```
